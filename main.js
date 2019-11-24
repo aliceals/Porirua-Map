@@ -16,7 +16,6 @@ function addMarker(long, lat, name, subtitle, photo, website) {
 }
 
 addMarker(-41.13158, 174.83352, "Awesome Bounce", "Childrens playland and cafe, bouncy castles, indoor trampolines and climbing wall", "bounce.jpg", "https://www.awesomebounce.co.nz/");
-addMarker(-41.1351, 174.88, "Test", "This is a test", "pools.jpeg", "www.google.com");
 addMarker(-41.131554, 174.83911, "Pātaka Art + Museum", "Pātaka Art + Museum is a place of inspiration. We encourage you to stop by and enjoy the latest exhibition of contemporary art, take part in an art class, and explore our local history.", "pataka.jpg", "https://www.pataka.org.nz/?utm_source=PCC-PTK&utm_medium=textlink&utm_campaign=PCC-PTK");
 addMarker(-41.105155, 174.916417, "LightHouse Cinema", "The Lighthouse Theatre is one of the oldest cinemas in New Zealand, for a boutique movie experience visit here", "lighthouse.jpeg", "https://www.lighthousecinema.co.nz/schedule/venue/pauatahanui/");
 addMarker(-41.136761, 174.841306, "Reading Cinemas", "With 5 wall to wall cinema screens featuring the highest quality crystal clear digital sound, you really can experience the difference at Reading Cinemas Porirua.", "reading.jpeg", "https://readingcinemas.co.nz/locations/theatre/porirua");
@@ -26,7 +25,7 @@ addMarker(-41.134592, 174.831234, "Indoor Raceway", "Unleash the speed demon lur
 addMarker(-41.120762, 174.860429, "New Zealand Police Museum", "The Museum takes visitors 'up close and personal' with policing methods of the past, present, and future, with dress up and activities for kids", "police.jpg", "https://www.police.govt.nz/about-us/history-museum/museum");
 addMarker(-41.059759, 174.937336, "Battle Hill Farm", "Battle Hill Farm Forest Park is 500 hectares of rolling paddocks, native bush and forestry. Come for the day for a picnic or camp overnight", "battle.jpg", "http://www.gw.govt.nz/battlehill/");
 addMarker(-41.12907, 174.840159, "Pirate's Cove", "Putt through caves, past waterfalls, through tombstones, around shark infested waters, and on a nice day check out the beautiful sea views as you putt around the pirate mini golf course!", "pirate.jpg", "http://www.adventuregolf.co.nz/locations/pirates-cove-wellington/");
-addMarker(-41.122587, 174.853852, "Adrenalin Forest", "Adrenalin Forest is a series of rope bridges, Tarzan swings and flying foxes from platforms constructed in the tree canopy", "adrenalin forest.jpeg", "http://www.adrenalin-forest.co.nz/wellington");
+addMarker(-41.122587, 174.853852, "Adrenalin Forest", "Adrenalin Forest is a series of rope bridges, Tarzan swings and flying foxes from platforms constructed in the tree canopy", "adrenalinforest.jpeg", "http://www.adrenalin-forest.co.nz/wellington");
 addMarker(-41.132984, 174.838207, "Te Rauparaha Arena", "Porirua's biggest aquatic centre", "pools.jpeg", "https://terauparaha-arena.co.nz/     aquatics/visit-arena-pool/");
 addMarker(-41.119978, 174.856833, "Aotea Lagoon", "Aotea Lagoon features a huge playground complete with a separate toddlers’ area, picnic      and BBQ areas, and an awesome splash pad. All free except for the train", "aotea.jpg", "https://poriruacity.govt.nz/discover-porirua/parks-and-reserves/aotea-lagoon/");
 
